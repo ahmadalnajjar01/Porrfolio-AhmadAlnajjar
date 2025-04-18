@@ -4,7 +4,9 @@
 
 **Full Stack Web Developer**
 
-[![🌐 Live Portfolio](https://ahmadalnajjar01.github.io/Porrfolio-AhmadAlnajjar/) [![📂 GitHub](https://img.shields.io/badge/GitHub-Explore-black)](https://github.com/Ahmadalnajjar609)  [![💼 LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/<your-linkedin-username>)
+[![🌐 Live Portfolio](https://img.shields.io/badge/Live%20Portfolio-Visit-blue)](https://ahmadalnajjar01.github.io/Porrfolio-AhmadAlnajjar/)  
+[![📂 GitHub](https://img.shields.io/badge/GitHub-Explore-black?logo=github)](https://github.com/ahmadalnajjar01/Porrfolio-AhmadAlnajjar)  
+[![💼 LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ahmad-alnajjar-77b635284/)
 
 ---
 
